@@ -1,5 +1,4 @@
 
-![Logo][logo]
 
 # Hassio add-on Repository
 This repository contains Hass.io add-ons. All add-ons in this repository are tested on Hass.io, Home Assistant Core installation is not supported.
@@ -7,7 +6,7 @@ This repository contains Hass.io add-ons. All add-ons in this repository are tes
 ### Installation
 1. Navigate in your Home Assistant frontend to <kbd>Supervisor</kbd> -> <kbd>Add-on Store</kbd>.
 
-2. Click the 3-dots menu at upper right <kbd>...</kbd> > <kbd>Repositories</kbd> and add this repository's URL: [https://github.com/MatterVN/HassioAddon](https://github.com/MatterVN/HassioAddon)
+2. Click the 3-dots menu at upper right <kbd>...</kbd> > <kbd>Repositories</kbd> and add this repository's URL: [https://github.com/wendelit/HassioAddon](https://github.com/wendelit/HassioAddon)
 
    <img src="images/add_repo.png" width="300"/>
 
@@ -50,7 +49,7 @@ Developer info [TTLock2MQTT](https://github.com/MatterVN/TTLock2MQTT)
 
 ### ModbusTCP2MQTT
 This addon support SMA & Sungrow Solar Inverter to publish data to MQTT Broker. 
-This add on based on [ModbusTCP2MQTT](https://github.com/MatterVN/ModbusTCP2MQTT)
+This add on based on [ModbusTCP2MQTT](https://github.com/wendelit/ModbusTCP2MQTT)
 
 
 # Custom Component
@@ -75,17 +74,6 @@ If you found useful component and want to share, don't hesitate let us know.
 Use Custom Component Store to update your card
 
 ## Useful Components in this Store
-
-#### SmartIR
-Modify from SmartIR for better service `media_player.select_source` 
-
-You can find the [details here](https://github.com/MatterVN/smartIR)
-
-#### Zing MP3
-Play media on zing.mp3.vn. Offer 2 services: `zing_mp3.play` and `zing_mp3.play_top100`
-
-You can find the [details here](https://github.com/MatterVN/zing_mp3)
-
 
 
 # Lovelace UI Custom Card (Plugin)
