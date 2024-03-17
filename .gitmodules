@@ -4,3 +4,6 @@
 [submodule "TTLock2MQTT"]
 	path = TTLock2MQTT
 	url = https://github.com/MatterVN/TTLock2MQTT
+[submodule "HassioAddon"]
+	path = HassioAddon
+	url = https://github.com/wendelit/HassioAddon
