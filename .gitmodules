@@ -1,3 +1,6 @@
 [submodule "ModbusTCP2MQTT"]
 	path = ModbusTCP2MQTT
 	url = https://github.com/wendelit/ModbusTCP2MQTT
+[submodule "hass-io-knxd"]
+	path = hass-io-knxd
+	url = https://github.com/wendelit/hass-io-knxd
